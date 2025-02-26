@@ -1,5 +1,4 @@
-# ANP-MCP 双向转换服务 (简化版)
-
+# ANP-MCP 双向转换服务
 这个项目实现了ANP (Agent Network Protocol) 和MCP (Model Context Protocol) 之间的双向转换功能，允许ANP客户端与MCP服务进行无缝通信。
 
 ## 特点
